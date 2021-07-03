@@ -14,4 +14,4 @@ docker-compose up -d
 * Application start
 
 ### Reference Documentation
-* This is the source of the [YouTube content.](https://www.youtube.com/watch?v=fTIttl-Z4mk)
+* This is the code I followed after watching [YouTube.](https://www.youtube.com/watch?v=fTIttl-Z4mk)
