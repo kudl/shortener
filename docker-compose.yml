@@ -1,0 +1,9 @@
+version: "3.0"
+services:
+  redis:
+    image: redis:6.2-alpine
+    container_name: redis_local
+    restart: always
+    ports:
+      - 6379:6379
+    command: redis-server --maxmemory 2G --maxmemory-policy allkeys-lru
